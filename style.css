@@ -1,4 +1,7 @@
 .main {
+    background-color: rgb(247, 237, 230);
+    margin: 0;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     width: 100px;
     height: 100px;
 }
